@@ -9,7 +9,7 @@ if [sys.version_info[0], sys.version_info[1]] < [2, 7]:
 
 setup(
     name='ak-django-datadog',
-    version='0.1.0.4',
+    version='0.1.0.5',
     packages=[
         'datadog',
         'datadog.middleware'
